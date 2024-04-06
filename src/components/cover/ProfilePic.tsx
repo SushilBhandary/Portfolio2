@@ -7,11 +7,11 @@ const ProfilePic: FC<ProfilePicProps> = ({}) => {
     return (
         <div className="">
             <Image
-                alt="Neeraj Walia"
-                src="/images/profilePic.jpeg"
+                alt="Sushil Bhandary"
+                src="/images/sushil.jpg"
                 height={120}
                 width={120}
-                className="object-cover border-4 border-white rounded-full shadow-md"
+                className="object-cover border-4 border-white rounded-full shadow-md h-32 w-32"
             />
         </div>
     );

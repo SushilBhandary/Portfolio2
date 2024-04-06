@@ -7,7 +7,7 @@ import { ContactFormProvider, MenuProvider } from '@/components/Provider';
 import { Toaster } from 'react-hot-toast';
 
 export const metadata: Metadata = {
-    title: 'Ez Snippet',
+    title: 'Sushil',
     description: 'Learning made EZ',
 };
 
